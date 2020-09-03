@@ -1,6 +1,7 @@
 import cv2
 #from imutils.video.pivideostream import PiVideoStream
-from imutils.video import FPS, WebcamVideoStream
+from imutils.video import FPS
+from Web import WebcamVideoStream
 import imutils
 import time
 import numpy as np
